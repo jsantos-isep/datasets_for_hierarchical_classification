@@ -1,1 +1,1 @@
-# datasets_for_hierarchical_classification
+# Datasets for Hierarchical Text News Classification
